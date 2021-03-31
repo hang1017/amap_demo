@@ -33,7 +33,7 @@
 <html>
   <head>
     ...
-    <script type="text/javascript" src="https://webapi.amap.com/maps?v=1.4.15&key=03d647a537d123296fc28884208f14f5">
+    <script type="text/javascript" src="https://webapi.amap.com/maps?v=1.4.15&key=您申请的key值">
     </script>
   </head>
   <body>
